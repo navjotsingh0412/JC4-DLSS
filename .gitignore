@@ -1,0 +1,8 @@
+deps/
+build/out/
+*.obj
+*.exp
+*.lib
+*.addon64
+*.zip
+ngx_data/

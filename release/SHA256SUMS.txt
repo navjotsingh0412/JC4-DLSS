@@ -1,0 +1,2 @@
+e42396c67020293dda416717e910e5498a83cccdf150d1388e44a78936ece416  jc4_dlss.addon64   (v1.5.0, as shipped in the Nexus zip)
+5550cfe35e6df50facdb45abe9ce0daab9c5e74d7b00b3b84935a84b9e39a70a  JC4-DLSS-v1.5.zip
